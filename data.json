@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Mark Hill",
+        "designation": "CEO",
+        "img": "https://i.imgur.com/uk87y7L.jpg",
+      "children": [
+        {
+            "name": "Joe Linux",
+            "designation": "CTO",
+            "img": "https://i.imgur.com/I8N6wle.gif",
+              "children": [
+            {
+                "name": "Ron Blomquist",
+                "designation": "CIO",
+                "img": "https://i.imgur.com/Id57NSW.jpg"
+            },
+            {
+                "name": "Michael Rubin",
+                "designation": "CIO",
+                "img": "https://i.imgur.com/NRYrB0l.jpeg"
+            }
+          ]
+        },
+  
+        {
+            "name": "Linda May",
+            "designation": "CBO",
+            "img": "https://i.imgur.com/Xdx7Ptn.jpeg",
+              "children": [
+            {
+                "name": "Allice Lopez",
+                "designation": "CCO",
+                "img": "https://i.imgur.com/eX7uYfG.jpeg"
+            },
+            {
+                "name": "Marry Johnson",
+                "designation": "CBO",
+                "img": "https://i.imgur.com/waxFbz6.jpg"
+
+            },
+            {
+                "name": "Kirk Douglas",
+                "designation": "CBO",
+                "img": "https://i.imgur.com/Zi7qqQA.jpg"
+            }
+          ]
+        },
+  
+        {
+            "name": "John Green",
+            "designation": "CAO",
+            "img": "https://i.imgur.com/0hhtbTn.jpeg",
+              "children": [
+            {
+                "name": "Erica Reel",
+                "designation": "CBO",
+                "img": "https://i.imgur.com/I9XFqdd.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

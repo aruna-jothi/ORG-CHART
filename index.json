@@ -1,0 +1,42 @@
+[
+    {
+      "name": "Mark Hill",
+      "ID": "start",
+      "designation": "Cheif Executive Officer",
+      "img": "https://i.imgur.com/uk87y7L.jpg",
+      "children": [
+        {
+          "name": "Child 1",
+          "ID": "residence",
+  
+          "children": [{}]
+        },
+        {
+          "name": "Child 2",
+          "ID": "campus",
+  
+          "children": [
+            {
+              "name": "Grand Child",
+              "ID": "random",
+  
+              "children": [
+                {
+                  "name": "Great Grand Child 1",
+                  "ID": "ass"
+                },
+                {
+                  "name": "Grand Grand Child 2",
+                  "ID": "ass2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Child 2",
+          "ID": "3r"
+        }
+      ]
+    }
+  ]
